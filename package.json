@@ -1,0 +1,27 @@
+{
+  "name": "bash-genius",
+  "version": "1.0.0",
+  "bin": {
+    "bash-genius": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "description": "any command you want, in an instant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasvogel-groq/bash-genius.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasvogel-groq/bash-genius/issues"
+  },
+  "homepage": "https://github.com/lucasvogel-groq/bash-genius#readme"
+}
